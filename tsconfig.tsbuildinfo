@@ -1,0 +1,286 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es6.d.ts": {
+        "version": "721cec59c3fef87aaf480047d821fb758b3ec9482c4129a54631e6e25e432a31",
+        "signature": "721cec59c3fef87aaf480047d821fb758b3ec9482c4129a54631e6e25e432a31",
+        "affectsGlobalScope": false
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "signature": "b3584bc5798ed422ce2516df360ffa9cf2d80b5eae852867db9ba3743145f895",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "signature": "feeeb1dd8a80fb76be42b0426e8f3ffa9bdef3c2f3c12c147e7660b1c5ba8b3b",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "signature": "d42f4141bd9ce82b4e2902f26acb00c183e321be19a38bbc0e76a922c1724c94",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "signature": "7fac8cb5fc820bc2a59ae11ef1c5b38d3832c6d0dfaec5acdb5569137d09a481",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "signature": "097a57355ded99c68e6df1b738990448e0bf170e606707df5a7c0481ff2427cd",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "signature": "810627a82ac06fb5166da5ada4159c4ec11978dfbb0805fe804c86406dab8357",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "signature": "62d80405c46c3f4c527ee657ae9d43fda65a0bf582292429aea1e69144a522a6",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "affectsGlobalScope": true
+      },
+      "./src/components/component.ts": {
+        "version": "efacbe3e07403156dc5a62a23710d055147e7dfc9e37ec6529803f394e3353e5",
+        "signature": "a1dd1199fd70bbb6e858fe8c563106b9fce8173c3c07aeeee6998a9b36d9e515",
+        "affectsGlobalScope": false
+      },
+      "./src/components/common/type.ts": {
+        "version": "7eb479011db2a4f59ac5b5e233c12a0c58c6fcd27642f9045b0f9b1e8ea249f9",
+        "signature": "7c8158f8499c8756e26f2171edd6059e4ab18279c6566aa581d22b21a2063b3b",
+        "affectsGlobalScope": false
+      },
+      "./src/decorators/draggable.ts": {
+        "version": "7e89b4722557d56ac1cc6d74c6847744de537929215fd9a617a6f506bfe76c13",
+        "signature": "c638d51427dcdefba1f15419752791a36974f101aafb85e8cf2b0cf1863c4003",
+        "affectsGlobalScope": false
+      },
+      "./src/components/page/page.ts": {
+        "version": "a3edd5a4c09c3aaaf78926a9e7dada7c8f6950b95b4e34fcba42375e47be3fed",
+        "signature": "0f423ff1a31fde9d332dfff0531681f196b589dda67d4d58df09d03cf3e1d2fd",
+        "affectsGlobalScope": false
+      },
+      "./src/components/dialog/dialog.ts": {
+        "version": "1a1fd4d5d5918fb38be08b3cdc9a867f470916349acdd30e660da99a9d39f7b5",
+        "signature": "d3f5bc613243f7646dbff1763911e35761e1f8dd48add46cdb9eb28116b16cbf",
+        "affectsGlobalScope": false
+      },
+      "./src/components/dialog/input/text-input.ts": {
+        "version": "08e691cb5f20a3657fc7e95e9e735b116042a8fa6e0318a823aa2db07a056955",
+        "signature": "c3d6f3e346a65e3628fdba7411950b9bb371906521822204a2ec8b31f12b9560",
+        "affectsGlobalScope": false
+      },
+      "./src/components/dialog/input/media-input.ts": {
+        "version": "585865bd386868f4a6e1e7edd18ead41515ba74c0b086cc4f3e5710bc6cae8b7",
+        "signature": "bcd155fe49ec003f0f6ea1d9d5bd27352afabf24b8a62187439c027e0a10cf17",
+        "affectsGlobalScope": false
+      },
+      "./src/components/page/item/image.ts": {
+        "version": "a7b26cdd4ff40ad44805e8c8fd171c7174111a90dff6f43ec6f7690e75cb9f37",
+        "signature": "897b124d99eb4316b4d6bf47b6ee1cd3eb15a59dca74eb7091a2335ff2535014",
+        "affectsGlobalScope": false
+      },
+      "./src/components/page/item/note.ts": {
+        "version": "4547d25293a49bedce3b8dcef1d513b3187bc0f6cc45c3da8dcdbe8e77181734",
+        "signature": "ead771f1b843d5e98a993eb36ab53bc7ec19c17158481a4be72c88d881a779d9",
+        "affectsGlobalScope": false
+      },
+      "./src/components/page/item/todo.ts": {
+        "version": "1bae404407a13118ac8a4b3da89623cea8167cad3b216559db4b041bfd7fc6f9",
+        "signature": "e5dbbe208912c3339435f640586ef64e63c90228a761a3ea48784b7e162ac5c9",
+        "affectsGlobalScope": false
+      },
+      "./src/components/page/item/video.ts": {
+        "version": "66416b7c6f9cda0df463cb16b5ca3f61a74562784a1baa0ae5b7c29b7a85b324",
+        "signature": "787ac3c56e41252b97c806ade1d0cf9254c71e0fd95f3079d93e2e2eb2000579",
+        "affectsGlobalScope": false
+      },
+      "./src/app.ts": {
+        "version": "c2571762ee524f514333369b7e8061d521caf277f428cb408c1e76156418b752",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6",
+        "affectsGlobalScope": false
+      },
+      "./src/decorators/log.ts": {
+        "version": "d836a5f89bf719995cc1dfa8f5c23cce574532ade628d26ed1369dcf86cf19b7",
+        "signature": "3da16d30bc6304a652772d8ff74fbb764da69f0d662e2a1e1b78eff7afd23195",
+        "affectsGlobalScope": true
+      }
+    },
+    "options": {
+      "experimentalDecorators": true,
+      "incremental": true,
+      "target": 2,
+      "module": 5,
+      "sourceMap": true,
+      "outDir": "./dist",
+      "rootDir": "./src",
+      "composite": true,
+      "removeComments": true,
+      "noEmitOnError": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "noUncheckedIndexedAccess": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "watch": true,
+      "configFilePath": "./tsconfig.json"
+    },
+    "referencedMap": {
+      "./src/app.ts": [
+        "./src/components/component.ts",
+        "./src/components/dialog/dialog.ts",
+        "./src/components/dialog/input/media-input.ts",
+        "./src/components/dialog/input/text-input.ts",
+        "./src/components/page/item/image.ts",
+        "./src/components/page/item/note.ts",
+        "./src/components/page/item/todo.ts",
+        "./src/components/page/item/video.ts",
+        "./src/components/page/page.ts"
+      ],
+      "./src/components/dialog/dialog.ts": [
+        "./src/components/component.ts",
+        "./src/components/page/page.ts"
+      ],
+      "./src/components/dialog/input/media-input.ts": [
+        "./src/components/component.ts",
+        "./src/components/dialog/dialog.ts"
+      ],
+      "./src/components/dialog/input/text-input.ts": [
+        "./src/components/component.ts",
+        "./src/components/dialog/dialog.ts"
+      ],
+      "./src/components/page/item/image.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/item/note.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/item/todo.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/item/video.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/page.ts": [
+        "./src/components/common/type.ts",
+        "./src/components/component.ts",
+        "./src/decorators/draggable.ts"
+      ],
+      "./src/decorators/draggable.ts": [
+        "./src/components/common/type.ts",
+        "./src/components/component.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "./src/components/dialog/dialog.ts": [
+        "./src/components/component.ts",
+        "./src/components/page/page.ts"
+      ],
+      "./src/components/dialog/input/media-input.ts": [
+        "./src/components/component.ts",
+        "./src/components/dialog/dialog.ts"
+      ],
+      "./src/components/dialog/input/text-input.ts": [
+        "./src/components/component.ts",
+        "./src/components/dialog/dialog.ts"
+      ],
+      "./src/components/page/item/image.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/item/note.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/item/todo.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/item/video.ts": [
+        "./src/components/component.ts"
+      ],
+      "./src/components/page/page.ts": [
+        "./src/components/common/type.ts",
+        "./src/components/component.ts"
+      ],
+      "./src/decorators/draggable.ts": [
+        "./src/components/common/type.ts",
+        "./src/components/component.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es5.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.es6.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.scripthost.d.ts",
+      "../../../../../appdata/roaming/npm/node_modules/typescript/lib/lib.webworker.importscripts.d.ts",
+      "./src/app.ts",
+      "./src/components/common/type.ts",
+      "./src/components/component.ts",
+      "./src/components/dialog/dialog.ts",
+      "./src/components/dialog/input/media-input.ts",
+      "./src/components/dialog/input/text-input.ts",
+      "./src/components/page/item/image.ts",
+      "./src/components/page/item/note.ts",
+      "./src/components/page/item/todo.ts",
+      "./src/components/page/item/video.ts",
+      "./src/components/page/page.ts",
+      "./src/decorators/draggable.ts",
+      "./src/decorators/log.ts"
+    ]
+  },
+  "version": "4.2.2"
+}
